@@ -16,7 +16,7 @@
 
 ## 🎮 `SELECTED WORK`
 
-###[🎮 **Preview of all three selected projects**](BUILD_LINK)
+## [🎮 **Preview of all three selected projects**](BUILD_LINK)
 
 ### **[DEALING WITH STUFF](https://github.com/coyzhiv/dealing-with-stuff)**
 
