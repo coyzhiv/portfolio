@@ -8,13 +8,15 @@
 
 📍 Prague, Czech Republic
 
-[💼 LinkedIn](LINKEDIN) · [📄 CV](CV_LINK) · [📧 Email](mailto:andriilavrinchuk@gmail.com)
+[📄 CV](CV_LINK) · [📧 Email](mailto:andriilavrinchuk@gmail.com)
 
 ---
 
 <div align="center">
 
 ## 🎮 `SELECTED WORK`
+
+###[🎮 **Preview of all three selected projects**](BUILD_LINK)
 
 ### **[DEALING WITH STUFF](https://github.com/coyzhiv/dealing-with-stuff)**
 
@@ -23,8 +25,6 @@
 `GODOT` · `GDSCRIPT` · `SOLO PROJECT`
 
 **EXPLORE** → **ENCOUNTER** → **BATTLE** → **STORY** → **REPEAT**
-
-[🎮 **PLAY BUILD**](BUILD_LINK)
 
 ---
 
@@ -36,8 +36,6 @@
 
 **PLAN** → **AIM** → **SHOOT** → **ROCKETJUMP** → **CLEAR**
 
-[🎮 **PLAY BUILD**](BUILD_LINK)
-
 ---
 
 ### **[CLOSER TO THE SUN](https://github.com/Dahaton/Closer-to-the-sun-R)**
@@ -48,7 +46,7 @@
 
 **FLY** → **AVOID** → **LEARN** → **UPGRADE** → **REPEAT**
 
-[▶ **GAMEPLAY**](GAMEPLAY_LINK) · [🌐 **PLAY IN BROWSER**](BUILD_LINK)
+[🌐 **PLAY IN BROWSER**](BUILD_LINK)
 
 </div>
 
