@@ -36,7 +36,9 @@
 
 `GODOT` · `GDSCRIPT` · `SOLO PROJECT`
 
-**PLAN** → **AIM** → **SHOOT** → **ROCKETJUMP** → **CLEAR**
+**PLAN** → **PLATFORMING** → **CLEAR** → **REPEAT**
+
+![RGGIF](RGGIF.gif)
 
 ---
 
