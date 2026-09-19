@@ -26,6 +26,8 @@
 
 **EXPLORE** → **ENCOUNTER** → **BATTLE** → **STORY** → **REPEAT**
 
+![DWSGIF](DWSGIF.gif)
+
 ---
 
 ### **[ROCKETJUMP GUNSLAUGHTER](https://github.com/coyzhiv/rocketjump)**
