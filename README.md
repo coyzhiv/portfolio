@@ -16,8 +16,6 @@
 
 ## 🎮 `SELECTED WORK`
 
-## [🎮 **Preview of all three selected projects**](BUILD_LINK)
-
 ### **[DEALING WITH STUFF](https://github.com/coyzhiv/dealing-with-stuff)**
 
 **A dynamic story-driven JRPG built around fast tactical combat.**
@@ -50,7 +48,7 @@
 
 **FLY** → **AVOID** → **LEARN** → **UPGRADE** → **REPEAT**
 
-[🌐 **PLAY IN BROWSER**](BUILD_LINK)
+[🌐 **PLAY IN BROWSER**](https://dahaton.itch.io/closer-to-the-sun)
 
 </div>
 
