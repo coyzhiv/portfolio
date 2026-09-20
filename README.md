@@ -50,6 +50,8 @@
 
 [🌐 **PLAY IN BROWSER**](https://dahaton.itch.io/closer-to-the-sun)
 
+![CTSGIF](CTSGIF.gif)
+
 </div>
 
 ---
