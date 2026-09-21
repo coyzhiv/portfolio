@@ -8,7 +8,7 @@
 
 📍 Prague, Czech Republic
 
-[📄 CV](CV_LINK) · [📧 Email](mailto:andriilavrinchuk@gmail.com)
+[📧 Email](mailto:andriilavrinchuk@gmail.com)
 
 ---
 
