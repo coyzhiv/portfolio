@@ -1,6 +1,6 @@
 # `ANDRII LAVRINCHUK`
 
-### `JUNIOR GAME DEVELOPER` · `C++ PROGRAMMER`
+### `JUNIOR GAME DEVELOPER`
 
 > **I build systems, mechanics and games.**
 
