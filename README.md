@@ -1,6 +1,6 @@
 # `ANDRII LAVRINCHUK`
 
-### `JUNIOR GAME DEVELOPER`
+### `Junior Software Engineer`
 
 > **I build systems, mechanics and games.**
 
